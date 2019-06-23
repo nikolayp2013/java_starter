@@ -1,7 +1,7 @@
 ﻿# java_starter
 Уроки Java для начинающих
-Текущий изученный урок:20
-https://itproger.com/course/java/20
+Текущий изученный урок:21
+https://itproger.com/course/java/21
 
 Урок #1 - Программирование на Java <br />
 Урок #2 - Установка Java JDK и IntelliJ IDEA <br />
