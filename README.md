@@ -27,3 +27,5 @@ https://itproger.com/course/java/24
 Урок #22 - Интерфейсы (interface) <br />
 Урок #23 - GUI Java (Swing JFrame) <br />
 Урок #24 - Заключительный урок <br />
+
+Скачать JDK https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
