@@ -1,7 +1,7 @@
-# java_starter
+﻿# java_starter
 Уроки Java для начинающих
-Текущий изученный урок:16
-https://itproger.com/course/java/16
+Текущий изученный урок:24
+https://itproger.com/course/java/24
 
 Урок #1 - Программирование на Java <br />
 Урок #2 - Установка Java JDK и IntelliJ IDEA <br />
@@ -27,3 +27,5 @@ https://itproger.com/course/java/16
 Урок #22 - Интерфейсы (interface) <br />
 Урок #23 - GUI Java (Swing JFrame) <br />
 Урок #24 - Заключительный урок <br />
+
+Скачать JDK https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
